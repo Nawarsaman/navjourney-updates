@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "appId": "com.navjourney.offline.test",
+  "platforms": {
+    "android": {
+      "channel": "internal",
+      "build": 51,
+      "contentVersion": "0.2.49",
+      "available": true,
+      "publishedAt": "2026-10-13T07:43:35.004451Z"
+    }
+  }
+}
