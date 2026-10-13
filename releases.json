@@ -8,6 +8,14 @@
       "contentVersion": "0.2.49",
       "available": true,
       "publishedAt": "2026-10-13T07:43:35.004451Z"
+    },
+    "ios": {
+      "channel": "testflight",
+      "build": 47,
+      "contentVersion": "0.2.49",
+      "marketingVersion": "0.2.42",
+      "available": true,
+      "publishedAt": "2026-10-12T19:54:22Z"
     }
   }
 }
