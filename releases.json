@@ -4,10 +4,10 @@
   "platforms": {
     "android": {
       "channel": "internal",
-      "build": 52,
-      "contentVersion": "0.2.50",
+      "build": 53,
+      "contentVersion": "0.2.51",
       "available": true,
-      "publishedAt": "2026-10-13T08:59:35Z"
+      "publishedAt": "2026-10-15T12:47:17Z"
     },
     "ios": {
       "channel": "testflight",
