@@ -11,11 +11,11 @@
     },
     "ios": {
       "channel": "testflight",
-      "build": 49,
-      "contentVersion": "0.2.51",
+      "build": 50,
+      "contentVersion": "0.2.52",
       "marketingVersion": "0.2.42",
       "available": true,
-      "publishedAt": "2026-10-15T12:51:22Z"
+      "publishedAt": "2026-10-16T12:27:20Z"
     }
   }
 }
